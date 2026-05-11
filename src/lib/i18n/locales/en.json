@@ -8,5 +8,9 @@
 	"not_found": {
 		"quote": "All tracks lead to Rome,\nbut this one seems to be under construction.",
 		"back_to_home": "Back on track"
+	},
+	"sidebar": {
+		"open": "Open sidebar",
+		"close": "Minimize sidebar"
 	}
 }

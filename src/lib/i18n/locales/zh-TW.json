@@ -8,5 +8,9 @@
 	"not_found": {
 		"back_to_home": "回到正軌",
 		"quote": "條條軌道通羅馬，\n但這條似乎正在施工中。"
+	},
+	"sidebar": {
+		"open": "打開側邊欄",
+		"close": "縮小側邊欄"
 	}
 }
